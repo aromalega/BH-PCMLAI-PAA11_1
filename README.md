@@ -38,8 +38,3 @@ CRISP-DM Framework
     A used car dealer would need to prioritize the above factors.
 
     Next Steps: I had to filter down the dataset to only California due to processing Issues. I could further use models on the complete dataset and find more variables that might affect the price.
-    
-
-
-
-
