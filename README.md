@@ -12,13 +12,8 @@ CRISP-DM Framework
   
   Modeling: Found the mean squared error and key features driving the car prices using the below 3 models.
               Linear Regression
-              ![image](https://github.com/user-attachments/assets/27883f9d-8062-43c3-aeff-abd7f695e3bf)
-
-              Ridge Regression
-              ![image](https://github.com/user-attachments/assets/3cf2fc7f-83d1-4be2-ad32-3ac3f3216805)
-
+              Ridge Regression  
               Lasso Regression
-              ![image](https://github.com/user-attachments/assets/bb988604-cdda-4d6c-8f58-e5212739008b)
 
 
   Evaluation: Compared the Mean squared errors of 3 models and found the best model for this dataset.
