@@ -11,6 +11,7 @@ CRISP-DM Framework
   Data Preparation: Concerted or removed the data with null values. Used One Hot Encoding on categorical columns to prepare the datset for modeling. Split the data into test and train datasets.
   
   Modeling: Found the mean squared error and key features driving the car prices using the below 3 models.
+  
               Linear Regression
               Ridge Regression  
               Lasso Regression
