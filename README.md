@@ -25,6 +25,7 @@ CRISP-DM Framework
   ![image](https://github.com/user-attachments/assets/3a5f0be9-b48e-4c48-8890-87d435a66c71)
 
   Since we found the Ridge regression to be the best model, plotted the key features from that model against price to evaluate what in those features contributes to high price.
+  
   ![image](https://github.com/user-attachments/assets/a65392cc-eb0e-413a-97cd-2f367c144317)
   ![image](https://github.com/user-attachments/assets/10ee04e0-d6b9-4a32-914d-01d13bed64c8)
   ![image](https://github.com/user-attachments/assets/2c95a3c5-8f1f-470e-8763-d594894da03e)
